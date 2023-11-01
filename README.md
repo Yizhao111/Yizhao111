@@ -1,6 +1,6 @@
 ## About Me
 
-Hi👋 I am Yizhao Chen. Here is my [website](https://yizhao111.github.io/)).
+Hi👋 I am Yizhao Chen. Here is my [website](https://yizhao111.github.io/).
 
 I am looking for master program to start in 2024 Fall. Contact me if you have any leads!
 
