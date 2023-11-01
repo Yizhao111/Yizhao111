@@ -4,6 +4,7 @@ Hi👋 I am Yizhao Chen. Here is my [website](https://yizhao111.github.io/).
 
 I am looking for master program to start in 2024 Fall. Contact me if you have any leads!
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yizhao111)
 
 <!--
 **Yizhao111/Yizhao111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
